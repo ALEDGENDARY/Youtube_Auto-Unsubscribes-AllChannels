@@ -2,8 +2,8 @@
 
 A powerful Python automation tool that helps you mass unsubscribe from YouTube channels quickly and efficiently.
 
-![Automation Software](AUTOMATIONIMAGE.png)
-![Software Interface](SOFTWAREIMAGE.png)
+![Automation Software](scr/AUTOMATIONIMAGE.png)
+![Software Interface](scr/SOFTWARE%20IMAGE.png)
 
 ## 🚀 Features
 
